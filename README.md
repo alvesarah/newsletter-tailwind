@@ -1,2 +1,2 @@
-# tailwind-alura-completo
-Projeto completo de tailwind (HTML) alura
+# newsletter-tailwind
+Projeto Newsletter completo de tailwind (HTML) alura
