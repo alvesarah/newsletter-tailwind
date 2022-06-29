@@ -11,6 +11,15 @@ tailwind.config = {
       fontFamily: {
         inter: ['Inter']
       },
+      keyframes: {
+        wiggle: {
+          '0%, 100%': { transform: 'rotate(-10deg)' },
+          '50%': { transform: 'rotate(10deg)' },
+        }
+      },
+      animation: {
+        wiggle: 'wiggle 0.31s ease-in-out infinite',
+      }
     }
   },
 }
